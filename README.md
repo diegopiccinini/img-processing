@@ -1,6 +1,6 @@
 # AI Image Processing, Hackathon LiveLink 2021
 
-This project is to show how are working some AI APIs in order to help users to improve or add creatives photos before print. 
+This project is to show how are working some AI APIs in order to help users to improve or add creatives photos before print.
 
 Basically we call deepai.org API, remove.gb API (using RestClient), and RMagick to apply the following effects:
 
@@ -23,7 +23,7 @@ Learn how to use PyTorch to detect multiple objects in an image, and then how to
 gandissect.res.ibm.com
 Painting with GANs from MIT-IBM Watson AI Lab
 This demo lets you modify a selection of meaningful GAN units for a generated image by simply painting.
-http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4 
+http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
 
  (191 kB)
 ## Project settings
