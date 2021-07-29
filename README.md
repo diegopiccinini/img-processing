@@ -25,7 +25,6 @@ Painting with GANs from MIT-IBM Watson AI Lab
 This demo lets you modify a selection of meaningful GAN units for a generated image by simply painting.
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
 
- (191 kB)
 ## Project settings
 
 * Ruby version
